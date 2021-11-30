@@ -1,0 +1,24 @@
+body {
+    color: #57d6d5;
+    background-color: #282a2e;
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+header h1 {
+    margin-left: 20px;
+}
+
+header img {
+    width: 75px;
+    height: 75px;
+}
+
+nav {
+    float: left;
+    width: 20%;
+    padding: 10px;
+}
